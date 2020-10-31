@@ -15,6 +15,8 @@ run this command: npm i
 
 then edit the info in config.json
 
+then create a folder called: commands
+
 then in the powershell window, run this command: node index.js
 
 then your bot SHOULD be online, if not, make sure its in your server
