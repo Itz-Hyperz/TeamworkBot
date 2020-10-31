@@ -1,0 +1,7 @@
+There are no commands in the commands folder, reason for this is because I dont have enough time to keep adding to this bot.
+I was going to add commands, but now I have decided no to.
+Feel free to use the commands folder as it is already setup and ready to go :)
+
+
+
+Bot built by: Hyperz#0001 (704094587836301392)

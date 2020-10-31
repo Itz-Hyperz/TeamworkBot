@@ -1,0 +1,30 @@
+{
+  "name": "teamwork",
+  "version": "1.1.0",
+  "description": "Bot Built By: Hyperz#0001",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Itz-Hyperz/TeamworkBot.git"
+  },
+  "keywords": [
+    "Teamwork"
+  ],
+  "author": "Hyperz#0001 (704094587836301392)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Itz-Hyperz/TeamworkBot/issues"
+  },
+  "homepage": "https://github.com/Itz-Hyperz/TeamworkBot#readme",
+  "dependencies": {
+    "discord.js": "^12.4.1",
+    "dotenv": "^8.2.0",
+    "fs": "0.0.1-security",
+    "ms": "^2.1.2",
+    "stack": "^0.1.0",
+    "ws": "^7.3.1"
+  }
+}
